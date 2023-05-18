@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Peer Review Config">ce121aeed5b2211092ebbc24cab21e3c</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>List</name>
+        <optional_parameters>listId,configId,tinyId</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>list</route_type>
+        <screen_type display_value="List">86121aeeb8b221106f306899efb1d13b</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-17 10:01:11</sys_created_on>
+        <sys_id>4a121aee6cb22110825ae482bc3f973b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List</sys_name>
+        <sys_package display_value="Peer Review" source="x_13258_peer_rev_0">b037a9e6073221102b80fe4f7c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</sys_scope>
+        <sys_update_name>sys_ux_app_route_4a121aee6cb22110825ae482bc3f973b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-17 10:01:11</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=4a121aee6cb22110825ae482bc3f973b"/>
+</record_update>

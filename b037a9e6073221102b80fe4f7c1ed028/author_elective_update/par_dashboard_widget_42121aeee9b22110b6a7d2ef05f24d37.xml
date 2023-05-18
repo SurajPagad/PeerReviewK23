@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">06121aee03b22110bfd23291fec49b36</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Task","sourceType":"table","tableOrViewName":"task","filterQuery":"active=true^priority=1","id":"dGFibGV0YXNrMTY1Mzg0MjI1MTUxMQ==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Critical Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MjI1MTUxMQ==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNakkxTVRVeE1RPT0xNjUzODQyMjUyNzkw","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props>
+        <h>9</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-17 10:01:11</sys_created_on>
+        <sys_id>42121aeee9b22110b6a7d2ef05f24d37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Peer Review" source="x_13258_peer_rev_0">b037a9e6073221102b80fe4f7c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</sys_scope>
+        <sys_update_name>par_dashboard_widget_42121aeee9b22110b6a7d2ef05f24d37</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-17 10:01:11</sys_updated_on>
+        <visualization/>
+        <w>4</w>
+        <x>8</x>
+        <y>2</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</application>
+        <file_path/>
+        <instance_id>37d96cd1db764c103050ac44d49619b4</instance_id>
+        <instance_name>dev99373</instance_name>
+        <name>par_dashboard_widget_42121aeee9b22110b6a7d2ef05f24d37</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">06121aee03b22110bfd23291fec49b36</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Task","sourceType":"table","tableOrViewName":"task","filterQuery":"active=true^priority=1","id":"dGFibGV0YXNrMTY1Mzg0MjI1MTUxMQ==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Critical Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MjI1MTUxMQ==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNakkxTVRVeE1RPT0xNjUzODQyMjUyNzkw","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props><h>9</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-17 10:01:11</sys_created_on><sys_id>42121aeee9b22110b6a7d2ef05f24d37</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Peer Review" source="x_13258_peer_rev_0">b037a9e6073221102b80fe4f7c1ed028</sys_package><sys_policy/><sys_scope display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</sys_scope><sys_update_name>par_dashboard_widget_42121aeee9b22110b6a7d2ef05f24d37</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-17 10:01:11</sys_updated_on><visualization/><w>4</w><x>8</x><y>2</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-696590141</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>eedeb500073121102b80fe4f7c1ed04f</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-03-20 21:09:29</sys_created_on>
+        <sys_id>c9955ae207f221102b80fe4f7c1ed099</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18700db0f280000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>89955ae21af2211062603191e15a7899</update_guid>
+        <update_guid_history>89955ae21af2211062603191e15a7899:-696590141</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">11955ae207f221102b80fe4f7c1ed09d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-17 10:16:23</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>a82d0e42776c47dcb34d5507d159d6e4</sys_id>
+        <sys_metadata>42121aeee9b22110b6a7d2ef05f24d37</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Peer Review" source="x_13258_peer_rev_0">b037a9e6073221102b80fe4f7c1ed028</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</sys_scope>
+        <sys_scope_delete display_value="">05cd39c3c3aa40b18f3a4199518321e9</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_42121aeee9b22110b6a7d2ef05f24d37</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_42121aeee9b22110b6a7d2ef05f24d37">c9955ae207f221102b80fe4f7c1ed099</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-17 10:16:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

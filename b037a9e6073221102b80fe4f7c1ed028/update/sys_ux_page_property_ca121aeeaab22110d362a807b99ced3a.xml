@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>routeConfigId</name>
+        <page display_value="Peer Review">ce121aeec9b22110288e98db2a67113a</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-17 10:01:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>ca121aeeaab22110d362a807b99ced3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>routeConfigId</sys_name>
+        <sys_package display_value="Peer Review" source="x_13258_peer_rev_0">b037a9e6073221102b80fe4f7c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</sys_scope>
+        <sys_update_name>sys_ux_page_property_ca121aeeaab22110d362a807b99ced3a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-17 10:01:09</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_13258_peer_rev_0.ce121aeec9b22110288e98db2a67113a.root.routeConfigId</unique_name>
+        <value>76a302f10b131010a8b1c96237673a61</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=ca121aeeaab22110d362a807b99ced3a"/>
+</record_update>

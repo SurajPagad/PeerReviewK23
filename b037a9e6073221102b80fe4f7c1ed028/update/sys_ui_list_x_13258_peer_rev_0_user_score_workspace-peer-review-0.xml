@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_13258_peer_rev_0_user_score" version="2" view="Workspace-Peer-Review-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user</element>
+            <list_id display_value="x_13258_peer_rev_0_user_score" element="NULL" name="x_13258_peer_rev_0_user_score" parent="NULL" relationship="NULL" sys_domain="global" view="c6121aeeedb221108c8899be260ab137">33537a22077621102b80fe4f7c1ed005</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-17 12:26:31</sys_created_on>
+            <sys_id>fb537a22077621102b80fe4f7c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-17 12:26:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>average</element>
+            <list_id display_value="x_13258_peer_rev_0_user_score" element="NULL" name="x_13258_peer_rev_0_user_score" parent="NULL" relationship="NULL" sys_domain="global" view="c6121aeeedb221108c8899be260ab137">33537a22077621102b80fe4f7c1ed005</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-17 12:26:31</sys_created_on>
+            <sys_id>ff537a22077621102b80fe4f7c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-17 12:26:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>nps</element>
+            <list_id display_value="x_13258_peer_rev_0_user_score" element="NULL" name="x_13258_peer_rev_0_user_score" parent="NULL" relationship="NULL" sys_domain="global" view="c6121aeeedb221108c8899be260ab137">33537a22077621102b80fe4f7c1ed005</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-17 12:26:31</sys_created_on>
+            <sys_id>f3537a22077621102b80fe4f7c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-17 12:26:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_13258_peer_rev_0_user_score</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-17 12:26:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33537a22077621102b80fe4f7c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_13258_peer_rev_0_user_score</sys_name>
+            <sys_package display_value="Peer Review" source="x_13258_peer_rev_0">b037a9e6073221102b80fe4f7c1ed028</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</sys_scope>
+            <sys_update_name>sys_ui_list_x_13258_peer_rev_0_user_score_Workspace-Peer-Review-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-17 12:26:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Peer Review 0" name="Workspace-Peer-Review-0">c6121aeeedb221108c8899be260ab137</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

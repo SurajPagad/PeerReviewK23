@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">06121aee03b22110bfd23291fec49b36</canvas>
+        <component display_value="">3a64f550256090d9578ede76158e899c</component>
+        <component_props>{"variant":"header-tertiary","label":"Happening now","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
+        <h>2</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-17 10:01:10</sys_created_on>
+        <sys_id>06121aee0db22110c3067cae85409c37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Peer Review" source="x_13258_peer_rev_0">b037a9e6073221102b80fe4f7c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</sys_scope>
+        <sys_update_name>par_dashboard_widget_06121aee0db22110c3067cae85409c37</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-17 10:01:10</sys_updated_on>
+        <visualization/>
+        <w>12</w>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</application>
+        <file_path/>
+        <instance_id>37d96cd1db764c103050ac44d49619b4</instance_id>
+        <instance_name>dev99373</instance_name>
+        <name>par_dashboard_widget_06121aee0db22110c3067cae85409c37</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">06121aee03b22110bfd23291fec49b36</canvas><component display_value="">3a64f550256090d9578ede76158e899c</component><component_props>{"variant":"header-tertiary","label":"Happening now","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props><h>2</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-17 10:01:10</sys_created_on><sys_id>06121aee0db22110c3067cae85409c37</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Peer Review" source="x_13258_peer_rev_0">b037a9e6073221102b80fe4f7c1ed028</sys_package><sys_policy/><sys_scope display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</sys_scope><sys_update_name>par_dashboard_widget_06121aee0db22110c3067cae85409c37</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-17 10:01:10</sys_updated_on><visualization/><w>12</w><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-280547769</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>eedeb500073121102b80fe4f7c1ed04f</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-03-20 21:09:29</sys_created_on>
+        <sys_id>f164befe07b261102b80fe4f7c1ed0aa</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18700db0f280000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>b164befe48b26110895b77870507e8aa</update_guid>
+        <update_guid_history>b164befe48b26110895b77870507e8aa:-280547769</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">f964befe07b261102b80fe4f7c1ed0ab</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 07:09:31</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>1b1bfa911ec949838574cb8e6c202cd1</sys_id>
+        <sys_metadata>06121aee0db22110c3067cae85409c37</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Peer Review" source="x_13258_peer_rev_0">b037a9e6073221102b80fe4f7c1ed028</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</sys_scope>
+        <sys_scope_delete display_value="">05cd39c3c3aa40b18f3a4199518321e9</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_06121aee0db22110c3067cae85409c37</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_06121aee0db22110c3067cae85409c37">f164befe07b261102b80fe4f7c1ed0aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 07:09:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

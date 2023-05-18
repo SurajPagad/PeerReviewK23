@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_13258_peer_rev_0_user_score">active=true</condition>
+        <group/>
+        <name>Peer Review - x_13258_peer_rev_0_user_score</name>
+        <roles/>
+        <source_table>x_13258_peer_rev_0_user_score</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-17 10:01:17</sys_created_on>
+        <sys_id>c8229aee07b221102b80fe4f7c1ed007</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Peer Review - x_13258_peer_rev_0_user_score</sys_name>
+        <sys_package display_value="Peer Review" source="x_13258_peer_rev_0">b037a9e6073221102b80fe4f7c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</sys_scope>
+        <sys_update_name>sys_search_source_c8229aee07b221102b80fe4f7c1ed007</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-17 10:01:17</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=c8229aee07b221102b80fe4f7c1ed007"/>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Peer Review">ce121aeec9b22110288e98db2a67113a</page>
+        <required_translations>[ {
+  "message" : "New Feedback",
+  "comment" : ""
+}, {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New User Score",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-17 10:01:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>8e121aeea9b22110e8929d91ce93803a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Peer Review" source="x_13258_peer_rev_0">b037a9e6073221102b80fe4f7c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">b037a9e6073221102b80fe4f7c1ed028</sys_scope>
+        <sys_update_name>sys_ux_page_property_8e121aeea9b22110e8929d91ce93803a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-17 10:01:22</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_13258_peer_rev_0.ce121aeec9b22110288e98db2a67113a.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New Feedback"},"routeInfo":{"route":"record","fields":{"table":"x_13258_peer_rev_0_feedback","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_13258_peer_rev_0_feedback","canCreate":true}}},{"label":{"translatable":true,"message":"New User Score"},"routeInfo":{"route":"record","fields":{"table":"x_13258_peer_rev_0_user_score","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_13258_peer_rev_0_user_score","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=8e121aeea9b22110e8929d91ce93803a"/>
+</record_update>
